@@ -1,5 +1,5 @@
 # New-York-City-Taxi-trips
-This project is about  New York City Taxi trips from year 2017 -2020.
+This project is about  New York City Taxi trips from year 2018 -2020.
 
 ## Introduction
 I am so excited that i got to work on this project, its a capstone project from Scenerio Academy and I love how much I had to transform the dataset to practice my skills of data cleaning, analysis and visualization.    
